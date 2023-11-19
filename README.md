@@ -1,16 +1,18 @@
 <h1>Hi, I am Lenka Cernohorska</h1>
 
-I am a React student.
-I enjoy coding because I am passionate about exploring new stuff.
-I like pushing my boundaries.
-I love the feeling when I can present my work to other people.
+<div>I am a React student</div>
+<div>I enjoy coding because I am passionate about exploring new stuff</div>
+<div>I like pushing my boundaries</div>
+<div>I love the feeling when I can present my work to other people</div>
+
 
 ## 🙋‍♀️ About me
 
-🏢 I am currently working as **Senior Accountant**
-👨‍💻 I would like to become **Junior Frontend Developer**
-🎓 I am currently learning React on Czechitas
-🎯 My nearest plan is to learn Next.js. I would like to continue React on Czechitas and start educating on **ReactGirls Mentoring**
+<div>🏢 I am currently working as **Senior Accountant**</div>
+<div>👨‍💻 I would like to become **Junior Frontend Developer**</div>
+<div>🎓 I am currently learning React on Czechitas</div>
+<div>🎯 My nearest plan is to learn Next.js. I would like to continue React on Czechitas and start educating on **ReactGirls Mentoring**</div>
+
 
 ## 🛠️ Skills and Tools
 
@@ -42,7 +44,8 @@ I love the feeling when I can present my work to other people.
 
 ## :heavy_check_mark: Completed Project
 
-I have just finished coding ** ** 
+I have been just finishing coding ** ** 
+
 
 ## ✍ Contact me
 
