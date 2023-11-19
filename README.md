@@ -1,6 +1,6 @@
 <h1>Hi, I am Lenka Cernohorska 🖐</h1>
 
-<div>🧑‍🎓I am a React student</div>
+<div>👩‍🎓 I am a React student</div>
 <div>❤ I enjoy coding because I am passionate about exploring new stuff</div>
 <div>♟ I like pushing my boundaries</div>
 <div>🌹 I love the feeling when I can present my work to other people</div>
