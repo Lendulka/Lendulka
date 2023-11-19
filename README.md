@@ -14,7 +14,8 @@ I love the feeling when I can present my work to other people.
 
 ## 🛠️ Skills and Tools
 
-<img src="/img/CSS.svg" alt="" width="150" height="150">
+<img src="/img/CSS.svg" alt="" width="16" height="16">
+<img src="/img/eleventy.svg" alt="" width="16" height="16">
 
 ## :heavy_check_mark: Completed Project
 
