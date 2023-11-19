@@ -47,7 +47,11 @@
 ## :heavy_check_mark: Completed Projects
 
 - [My Weather App](https://lencina-weather-app.netlify.app/) - web app coded with React and Vite.
-This App provides Current Weather and 5-day-Forecast with a 3-hour step based on <a href="https://openweathermap.org/api">OpenWeather</a> API
+The App provides Current Weather and 5-day-Forecast with a 3-hour step based on <a href="https://openweathermap.org/api">OpenWeather</a> API
+
+- [Smart House](https://lencin-chytry-dum.netlify.app/) - simple control panel to handle smart household coded with React and Vite
+
+- [Alarm Clock](https://lendulka.github.io/lendulka-du-minutka2/) - exercise Alarm Clock coded with JavaScript
 
 - [FilmBox](https://lencin-filmbox.netlify.app/) - static multi-page website coded with JavaScript and Bootstrap
 
