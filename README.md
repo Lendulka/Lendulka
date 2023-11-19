@@ -14,20 +14,34 @@ I love the feeling when I can present my work to other people.
 
 ## 🛠️ Skills and Tools
 
+<div style="display: flex">
+    <img src="/img/React-Light.svg" alt="react-icon" width="40" height="40">
+    <img src="/img/JavaScript.svg" alt="js-icon" width="40" height="40">
+    <img src="/img/HTML.svg" alt="html-icon" width="40" height="40">
+    <img src="/img/CSS.svg" alt="css-icon" width="40" height="40">
+</div>
+
+</br>
 
 <div style="display: flex">
-    <img src="/img/CSS.svg" alt="" width="40" height="40">
-    <img src="/img/eleventy.svg" alt="" width="40" height="40">
-    <img src="/img/Git.svg" alt="" width="40" height="40">
-    <img src="/img/Github-Dark.svg" alt="" width="40" height="40">
-    <img src="/img/HTML.svg" alt="" width="40" height="40">
-    <img src="/img/JavaScript.svg" alt="" width="40" height="40">
-    <img src="/img/npm.svg" alt="" width="40" height="40">
-    <img src="/img/React-Dark.svg" alt="" width="40" height="40">
-    <img src="/img/Sass.svg" alt="" width="40" height="40">
-    <img src="/img/Vite-Light.svg" alt="" width="40" height="40">
-    <img src="/img/VSCode-Light.svg" alt="" width="40" height="40">
-    <img src="/img/Webpack-Light.svg" alt="" width="40" height="40">
+    <img src="/img/Sass.svg" alt="sass-icon" width="40" height="40">
+    <img src="/img/eleventy.svg" alt="11ty-icon" width="40" height="40">
+    <img src="/img/npm.svg" alt="npm-icon" width="40" height="40">
+</div>
+
+</br>
+
+<div style="display: flex">
+    <img src="/img/Git.svg" alt="git-icon" width="40" height="40">
+    <img src="/img/Github-Dark.svg" alt="github-icon" width="40" height="40">
+    <img src="/img/VSCode-Light.svg" alt="vscode-icon" width="40" height="40">
+</div>
+
+</br>
+
+<div style="display: flex">
+    <img src="/img/Vite-Light.svg" alt="vite-icon" width="40" height="40">
+    <img src="/img/Webpack-Light.svg" alt="webpack-icon" width="40" height="40">
 </div>
 
 ## :heavy_check_mark: Completed Project
