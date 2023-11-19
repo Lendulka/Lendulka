@@ -35,14 +35,10 @@ I love the feeling when I can present my work to other people.
     <img src="/img/Git.svg" alt="git-icon" width="40" height="40">
     <img src="/img/Github-Dark.svg" alt="github-icon" width="40" height="40">
     <img src="/img/VSCode-Light.svg" alt="vscode-icon" width="40" height="40">
-</div>
-
-</br>
-
-<div style="display: flex">
     <img src="/img/Vite-Light.svg" alt="vite-icon" width="40" height="40">
     <img src="/img/Webpack-Light.svg" alt="webpack-icon" width="40" height="40">
 </div>
+
 
 ## :heavy_check_mark: Completed Project
 
