@@ -8,12 +8,11 @@
 
 ## 👩‍💼 About me
 
-<div>💰 I am currently working as <bold>Senior Accountant</bold></div>
-<div>🍀 I would like to become <bold>Junior Frontend Developer</bold></div>
-<div>🎓 I am currently learning React on <bold>Czechitas</bold></div>
+<div>💰 I am currently working as Senior Accountant</div>
+<div>🍀 I would like to become Junior Frontend Developer</div>
+<div>🎓 I am currently learning React on Czechitas</div>
 <div>⏰ My nearest plan is to learn Next.js</div>
-<div>🎯 I would like to continue React on Czechitas and start educating on <bold>ReactGirls Mentoring
-</bold></div>
+<div>🎯 I would like to continue React on Czechitas and start educating on ReactGirls Mentoring</div>
 
 
 ## 🛠️ Skills and Tools
@@ -47,15 +46,15 @@
 ## :heavy_check_mark: Completed Projects
 
 - [My Weather App](https://lencina-weather-app.netlify.app/) - web app coded with React and Vite.
-The App provides Current Weather and 5-day-Forecast with a 3-hour step based on <a href="https://openweathermap.org/api">OpenWeather</a> API
+The App provides Current Weather and 5-day-Forecast based on <a href="https://openweathermap.org/api">OpenWeather</a> API
 
 - [Smart House](https://lencin-chytry-dum.netlify.app/) - simple control panel to handle smart household coded with React and Vite
 
-- [Alarm Clock](https://lendulka.github.io/lendulka-du-minutka2/) - exercise Alarm Clock coded with JavaScript
-
 - [FilmBox](https://lencin-filmbox.netlify.app/) - static multi-page website coded with JavaScript and Bootstrap
 
-- [Eleventy filmy](https://lenciny-filmy.netlify.app/) - static multi-page website coded with HTML/SASS and generated with Eleventy
+- [Alarm Clock](https://lendulka.github.io/lendulka-du-minutka2/) - exercise Alarm Clock coded with JavaScript
+
+- [Eleventy filmy](https://lenciny-filmy.netlify.app/) - static multi-page website coded with HTML/CSS/SASS and generated with Eleventy
 
 - [Island](https://lenka-island.netlify.app/) - static website coded with HTML/CSS
 
